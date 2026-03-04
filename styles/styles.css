@@ -333,8 +333,13 @@ main > .section > .columns-wrapper{
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);
 
   /* Optional: overlay styling */
-  width: 300px;
   color: white;
   font-size: 18px;
 
+}
+main > .section > .columns-wrapper > .columns-img-col{
+  background-color: whitesmoke;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);
 }
