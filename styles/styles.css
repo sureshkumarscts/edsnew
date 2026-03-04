@@ -323,3 +323,18 @@ main .section.highlight {
   margin: 0;
   padding: 40px 0;
 }
+/*Column section custom changes*/
+main > .section > .columns-wrapper{
+  background-color: #A0522D; /* SaddleBrown, change as needed */
+  padding: 20px;
+  border-radius: 8px;
+
+  /* Box shadow for overlay effect */
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);
+
+  /* Optional: overlay styling */
+  width: 300px;
+  color: white;
+  font-size: 18px;
+
+}
