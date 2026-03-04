@@ -337,7 +337,7 @@ main > .section > .columns-wrapper{
   font-size: 18px;
 
 }
-main > .section > .columns-wrapper > .columns-img-col{
+main > .section > .columns-wrapper .columns-img-col{
   background-color: whitesmoke;
   padding: 20px;
   border-radius: 8px;
