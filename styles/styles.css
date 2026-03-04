@@ -323,7 +323,3 @@ main .section.highlight {
   margin: 0;
   padding: 40px 0;
 }
-/*Nav Section color changes*/
-body.header-wrapper.nav-wrapper{
-     background-color: antiquewhite;
-}
