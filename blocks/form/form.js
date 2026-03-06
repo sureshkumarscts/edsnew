@@ -674,3 +674,4 @@ export default function decorate(block) {
     block.parentElement.remove();
   }
 }
+/*code ends*/
